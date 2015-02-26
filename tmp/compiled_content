@@ -1,8 +1,8 @@
-{:	data{I"/:ET{:default{	:	lastI"<!DOCTYPE HTML>
+{:	data{I"/:ET{:default{	:	lastI"R<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Home</title>
+    <title>A Brand New nanoc Site - Shopping</title>
     <link rel="stylesheet" href="/stylesheet.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
@@ -10,16 +10,16 @@
   </head>
   <body>
     <div id="main">
-      <h1>A Brand New nanoc Site</h1>
+      
+<p>Now is the time for all good men to come to the aid of their country. This is just a regular paragraph.</p>
 
-<p>You’ve just created a new nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
+<h2 id="shopping-list">Shopping list</h2>
 
-<ul>
-  <li><p><strong>Change this page’s content</strong> by editing the “index.html” file in the “content” directory. This is the actual page content, and therefore doesn’t include the header, sidebar or style information (those are part of the layout).</p></li>
-  <li><p><strong>Change the layout</strong>, which is the “default.html” file in the “layouts” directory, and create something unique (and hopefully less bland).</p></li>
-</ul>
-
-<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
+<ol>
+  <li>Bread</li>
+  <li>Butter</li>
+  <li>Refined uranium</li>
+</ol>
 
     </div>
     <div id="sidebar">
@@ -37,26 +37,24 @@
     </div>
   </body>
 </html>
-;T:rawI"�<h1>A Brand New nanoc Site</h1>
+;T:rawI"�
+Now is the time for all good men to come to the aid of their country. This is just a regular paragraph.
 
-<p>You’ve just created a new nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
+## Shopping list
 
-<ul>
-  <li><p><strong>Change this page’s content</strong> by editing the “index.html” file in the “content” directory. This is the actual page content, and therefore doesn’t include the header, sidebar or style information (those are part of the layout).</p></li>
-  <li><p><strong>Change the layout</strong>, which is the “default.html” file in the “layouts” directory, and create something unique (and hopefully less bland).</p></li>
-</ul>
+1. Bread
+2. Butter
+3. Refined uranium
+;T:preI"�
+<p>Now is the time for all good men to come to the aid of their country. This is just a regular paragraph.</p>
 
-<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
-;T:preI"�<h1>A Brand New nanoc Site</h1>
+<h2 id="shopping-list">Shopping list</h2>
 
-<p>You’ve just created a new nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
-
-<ul>
-  <li><p><strong>Change this page’s content</strong> by editing the “index.html” file in the “content” directory. This is the actual page content, and therefore doesn’t include the header, sidebar or style information (those are part of the layout).</p></li>
-  <li><p><strong>Change the layout</strong>, which is the “default.html” file in the “layouts” directory, and create something unique (and hopefully less bland).</p></li>
-</ul>
-
-<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
+<ol>
+  <li>Bread</li>
+  <li>Butter</li>
+  <li>Refined uranium</li>
+</ol>
 ;T:	post@
 I"/stylesheet/;T{;{;I"�* {
   margin: 0;
